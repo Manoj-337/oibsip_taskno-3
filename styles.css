@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+
+label {
+    display: block;
+    margin-bottom: 10px;
+  }
+
+input[type="number"] {
+    padding: 5px;
+  }
+
+
+button {
+    margin: 50px 0px 50px 300px ;
+    text-align: center;
+    display: block;
+    padding: 10px 20px;
+  }
+
+#result {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+.app{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 4mm ridge black;
+    padding: 30px;
+}  
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+label{
+    display: inline;
+    padding: 10px;
+}
+
+.unit{
+    margin-left: 190px;
+}
+
